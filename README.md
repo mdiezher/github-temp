@@ -1,2 +1,2 @@
 # github-temp
-Test to practices introduction to Github
+Test to practices introduction to Github. I am editing the README file. Adding some more details about the project description.
